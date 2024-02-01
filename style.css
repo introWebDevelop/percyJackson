@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Dynalight&family=Grandiflora+One&family=Walter+Turncoat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rosarivo:ital@0;1&display=swap');
+body {
+	background-color:lightseagreen ;
+	color: mintcream;
+}
+
+p {
+	text-align: left;
+	font-size: 20px;
+	border-style: solid;
+	border-color: darkgoldenrod;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+h2 {
+	font-family: "Rosarivo", cursive;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+h1 {
+	font-family: "Walter Turncoat", cursive;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+h3 {
+	font-family: "Rosarivo", cursive;
+	text-decoration: underline;
+}
+
+.superEmphasis {
+	background-color: skyblue;
+	color: black;
+}
+
+
+
+
+
+
+
